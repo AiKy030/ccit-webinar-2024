@@ -58,3 +58,5 @@ const quiz = [
 */
 
 // Write your answer here
+console.log(quiz[0])
+console.log(quiz[1])
